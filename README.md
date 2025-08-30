@@ -21,8 +21,8 @@
 
 ## 🌐 Connect With Me 
 <p align="left">
-  <a href="https://github.com/VIJITH-SELVAKUMARR/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://hub.docker.com/u/vijiths" target="_blank">
+    <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vijith-selvakumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,4 +36,5 @@
   <a href="https://adithyakrishnav.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
   </a>
-</p
+</p>
+
