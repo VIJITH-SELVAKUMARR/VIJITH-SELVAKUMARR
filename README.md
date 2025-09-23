@@ -7,15 +7,16 @@
 ## 🚀 About Me
 - 🌱 Currently exploring **Full-Stack Development and Machine Learning**  
 - 🎯 Interested in **automation, open-source, and system design**  
-- 🤝 Always open to collaborations
-- 🧑‍💻 I enjoy solving challenges and learning new technologies   
+- 🤝 Open to collaborations
+- 🧑‍💻 I enjoy solving challenges and learning
+- 🗪  Always ready to discuss and share 
 
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** Python, MySQL, C, C++, FORTRAN
+- **Languages:** Python, MySQL, C, FORTRAN
 - **Frameworks:** Django ReST Framework, Flutter, React  
-- **Tools & Platforms:** Git, Linux, Docker
+- **Tools & Platforms:** Git, Linux, Postman, Docker
 
 ---
 
