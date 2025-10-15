@@ -28,9 +28,9 @@
   <a href="https://www.linkedin.com/in/vijith-selvakumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/vijithcell1/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
-  </a>
+  <a href="[https://linktr.ee/yourusername](https://linktr.ee/ijith_s)" target="_blank">
+  <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white" />
+</a>
   <a href="https://www.hackerrank.com/profile/vijithcell1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
