@@ -5,8 +5,7 @@
 💻 Developer  
 
 ## 🚀 About Me
-- 🌱 Currently exploring **Full-Stack Development and Machine Learning**  
-- 🎯 Interested in **automation, open-source, and system design**  
+- 🌱 Currently exploring **Full-Stack Development and Machine Learning**   
 - 🤝 Open to collaborations
 - 🧑‍💻 I enjoy solving challenges and learning new technologies
 - 🗪  Always ready to discuss and share 
