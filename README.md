@@ -13,7 +13,7 @@
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** Python, MySQL, C, FORTRAN
+- **Languages:** Python, MySQL, javascript, C
 - **Frameworks:** Django ReST Framework, Flutter, React  
 - **Tools & Platforms:** Git, Linux, Postman, Docker
 
